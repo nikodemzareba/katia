@@ -105,7 +105,7 @@ export default async function Page() {
               </div>
             </div>
             <div className='p-4 space-y-4 rounded-b-lg flexborder-b bg-gray-50'>
-              <a href='https://5vpe.short.gy/cam3'>
+              <a href='https://beb2.short.gy/91qy7w'>
                 <button className='z-10 w-full py-3 mt-4 font-medium tracking-wide text-white transform shadow  bg-sky-500 rounded-lg hover:scale-105 duration-150 hover:shadow-xl'>
                   <strong>
                     <img
